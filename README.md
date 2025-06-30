@@ -1,3 +1,15 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SUBHENDU SEKHAR SAHU
+
+INTERN ID: CT08DK352
+
+DOMAIN: FRONT END DEVELOPMENT
+
+DURATION: 8 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 # Real-time-chat-Application
 
 💬 Real-Time Chat Application
@@ -32,7 +44,11 @@ node server/server.js
 Visit http://localhost:3000
 
 📷 Demo Screenshot
+![Screenshot (30)](https://github.com/user-attachments/assets/08e04df3-5d68-4923-9011-3ef6184c8ebb)
 
+![Screenshot (31)](https://github.com/user-attachments/assets/bf4d06d2-011f-49f5-a8ec-76d49e582af1)
+
+![Screenshot (32)](https://github.com/user-attachments/assets/5322a93f-859d-436a-b2d8-32dbf2b27abf)
 
 
 📚 Project Purpose
